@@ -1,0 +1,45 @@
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.exe.config
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.exe
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.pdb
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csprojAssemblyReference.cache
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil_Benefits_Calculator.MidevilBenefitsCalculator_GUI.resources
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil_Benefits_Calculator.Properties.Resources.resources
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.GenerateResource.cache
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.CoreCompileInputs.cache
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.exe
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.pdb
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Interop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Interop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.ResolveComReference.cache
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csprojAssemblyReference.cache
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Interop.WMPLib.dll
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\AxInterop.WMPLib.dll
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.ResolveComReference.cache
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil_Benefits_Calculator.MidevilBenefitsCalculator_GUI.resources
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil_Benefits_Calculator.Properties.Resources.resources
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.GenerateResource.cache
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.CoreCompileInputs.cache
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.exe
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.pdb
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.exe.config
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.exe
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.pdb
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Interop.WMPLib.dll
+E:\School\CSC202\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.AssemblyReference.cache
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Interop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.ResolveComReference.cache
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.exe
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.pdb
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.exe.config
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.exe
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Midevil Benefits Calculator.pdb
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\Interop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil_Benefits_Calculator.MidevilBenefitsCalculator_GUI.resources
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil_Benefits_Calculator.Properties.Resources.resources
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.GenerateResource.cache
+C:\Users\carne\OneDrive\Desktop\Sip 411\Midevil Benefits Calculator-5\Midevil Benefits Calculator\Midevil Benefits Calculator\obj\Debug\Midevil Benefits Calculator.csproj.CoreCompileInputs.cache

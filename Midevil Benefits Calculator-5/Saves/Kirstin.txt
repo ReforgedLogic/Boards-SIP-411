@@ -1,0 +1,28 @@
+Date: 7/31/2022
+
+
+First: Kirstin
+Last: Carney
+Battle ID: 34211
+
+
+Reward Package for Kirstin Carney. Review the following reward package and accept. If you have any issues contact your races' resources scribe in the RH department. IMPORTANT!! - save this document after you have accepted terms. By choosing accepted terms you are premorming a magical signature (M-signature) that is legally and lethally binding. 
+
+The Following Modifiers Apply: 
+	Healer = 725 gp
+	29 = 2900 gp
+	Elf = 0.69
+	FOURTEEN = 0.95
+	0-2 Light Injuries = 200 gp
+	Alive = 1
+	Hero = 2.7
+	Bonus = 254 gp
+
+The above is calculated as follows: 
+(((((29 * 100) + 725 + 200 + 254) / 0.95) * 1) * ((0.69 * 2.7) * 0.07))
+
+Total = 559.94
+
+
+
+To accept this package click accept and save.

@@ -1,0 +1,28 @@
+Date: 7/30/2022
+
+
+First: Jerard
+Last: Carney
+Battle ID: 12345
+
+
+Reward Package for Jerard Carney. Review the following reward package and accept. If you have any issues contact your races' resources scribe in the RH department. IMPORTANT!! - save this document after you have accepted terms. By choosing accepted terms you are premorming a magical signature (M-signature) that is legally and lethally binding. 
+
+The Following Modifiers Apply: 
+	Commander = 1000 gp
+	33 = 3300 gp
+	Human = 0.73
+	SIX = 0.6
+	0-2 Light Injuries = 200 gp
+	Alive = 1
+	Hero = 2.7
+	Bonus = 49 gp
+
+The above is calculated as follows: 
+(((((33 * 100) + 1000 + 200 + 49) / 0.6) * 1) * ((0.73 * 2.7) * 0.07))
+
+Total = 1046.04
+
+
+
+To accept this package click accept and save.
