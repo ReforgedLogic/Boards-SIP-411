@@ -1,0 +1,680 @@
+{
+  "aeronautic_vehicle_details": [
+    {
+      "span": 9.4,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.2,
+      "armament_count": 10,
+      "speed": 394,
+      "crew_compartments": 1
+    },{
+      "span": 9.6,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 7.17,
+      "armament_count": 4,
+      "speed": 362,
+      "crew_compartments": 1
+    },{
+      "span": 9.5,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 7.47,
+      "armament_count": 2,
+      "speed": 360,
+      "crew_compartments": 1
+    },{
+      "span": 9.70,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.25,
+      "armament_count": 6,
+      "speed": 441,
+      "crew_compartments": 1
+    },{
+      "span": 9.8,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.4,
+      "armament_count": 4,
+      "speed": 414,
+      "crew_compartments": 1
+    },{
+      "span": 9.75,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 6.10,
+      "armament_count": 10,
+      "speed": 350,
+      "crew_compartments": 1
+    },
+    {
+      "span": 21.4,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.06,
+      "armament_count": 6,
+      "speed": 533,
+      "crew_compartments": 1
+    },{
+      "span": 12.10,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.3,
+      "armament_count": 4,
+      "speed": 430,
+      "crew_compartments": 1
+    },{
+      "span": 10.97,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 7.77,
+      "armament_count": 6,
+      "speed": 491,
+      "crew_compartments": 1
+    },{
+      "span": 10.67,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.03,
+      "armament_count": 4,
+      "speed": 515,
+      "crew_compartments": 1
+    },{
+      "span": 11.60,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.8,
+      "armament_count": 8,
+      "speed": 534,
+      "crew_compartments": 1
+    },{
+      "span": 12.5,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 10.2,
+      "armament_count": 14,
+      "speed": 717,
+      "crew_compartments": 1
+    },{
+      "span": 13.06,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 10.24,
+      "armament_count": 12,
+      "speed": 605,
+      "crew_compartments": 1
+    },{
+      "span": 10.5,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 10.2,
+      "armament_count": 7,
+      "speed": 704,
+      "crew_compartments": 1
+    },{
+      "span": 12.2,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.58,
+      "armament_count": 8,
+      "speed": 545,
+      "crew_compartments": 1
+    },{
+      "span": 9,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 6.07,
+      "armament_count": 2,
+      "speed": 605,
+      "crew_compartments": 1
+    },{
+      "span": 9.8,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.67,
+      "armament_count": 10,
+      "speed": 648,
+      "crew_compartments": 1
+    },{
+      "span": 9.8,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.6,
+      "armament_count": 3,
+      "speed": 680,
+      "crew_compartments": 1
+    },{
+      "span": 11.23,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.93,
+      "armament_count": 6,
+      "speed": 689,
+      "crew_compartments": 1
+    },{
+      "span": 11.4,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.7,
+      "armament_count": 2,
+      "speed": 518,
+      "crew_compartments": 1
+    },{
+      "span": 12.42,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 11,
+      "armament_count": 8,
+      "speed": 692,
+      "crew_compartments": 1
+    },{
+      "span": 9.83,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 11.28,
+      "armament_count": 6,
+      "speed": 784,
+      "crew_compartments": 1
+    },{
+      "span": 10,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 11.7,
+      "armament_count": 5,
+      "speed": 725,
+      "crew_compartments": 1
+    },{
+      "span": 12.49,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 10.26,
+      "armament_count": 14,
+      "speed": 700,
+      "crew_compartments": 1
+    },{
+      "span": 12.67,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.73,
+      "armament_count": 12,
+      "speed": 664,
+      "crew_compartments": 1
+    },{
+      "span": 9.74,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 8.55,
+      "armament_count": 3,
+      "speed": 672,
+      "crew_compartments": 1
+    },
+    {
+      "span": 17.65,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 12.6,
+      "armament_count": 20,
+      "speed": 538,
+      "crew_compartments": 2
+    },{
+      "span": 16.3,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 12.3,
+      "armament_count": 7,
+      "speed": 560,
+      "crew_compartments": 2
+    },{
+      "span": 13.8,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 13.85,
+      "armament_count": 3,
+      "speed": 765,
+      "crew_compartments": 1
+    },{
+      "span": 13.57,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 11.46,
+      "armament_count": 14,
+      "speed": 509,
+      "crew_compartments": 2
+    },{
+      "span": 14.13,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 12.25,
+      "armament_count": 11,
+      "speed": 438,
+      "crew_compartments": 2
+    },{
+      "span": 16.39,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 12.4,
+      "armament_count": 8,
+      "speed": 587,
+      "crew_compartments": 2
+    },{
+      "span": 15.85,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 11.53,
+      "armament_count": 19,
+      "speed": 667,
+      "crew_compartments": 1
+    },{
+      "span": 14.02,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 10.85,
+      "armament_count": 12,
+      "speed": 359,
+      "crew_compartments": 2
+    },
+    {
+      "span": 12.19,
+      "engine_count": 1,
+      "engine_type": 1,
+      "length": 12.19,
+      "armament_count": 14,
+      "speed": 650,
+      "crew_compartments": 1
+    },{
+      "span": 7.2,
+      "engine_count": 1,
+      "engine_type": 1,
+      "length": 9.05,
+      "armament_count": 2,
+      "speed": 900,
+      "crew_compartments": 1
+    },{
+      "span": 10,
+      "engine_count": 2,
+      "engine_type": 1,
+      "length": 9.25,
+      "armament_count": 3,
+      "speed": 696,
+      "crew_compartments": 1
+    },{
+      "span": 9.33,
+      "engine_count": 1,
+      "engine_type": 2,
+      "length": 5.70,
+      "armament_count": 2,
+      "speed": 955,
+      "crew_compartments": 1
+    },{
+      "span": 12.6,
+      "engine_count": 2,
+      "engine_type": 1,
+      "length": 10.6,
+      "armament_count": 4,
+      "speed": 870,
+      "crew_compartments": 1
+    },{
+      "span": 11.32,
+      "engine_count": 2,
+      "engine_type": 1,
+      "length": 13.59,
+      "armament_count": 4,
+      "speed": 930,
+      "crew_compartments": 2
+    },{
+      "span": 11.81,
+      "engine_count": 1,
+      "engine_type": 1,
+      "length": 10.49,
+      "armament_count": 19,
+      "speed": 965,
+      "crew_compartments": 1
+    },
+    {
+      "span": 18.5,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 15.5,
+      "armament_count": 8,
+      "speed": 669,
+      "crew_compartments": 2
+    },{
+      "span": 16.98,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 12.77,
+      "armament_count": 4,
+      "speed": 507,
+      "crew_compartments": 2
+    },{
+      "span": 20.12,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 15.11,
+      "armament_count": 16,
+      "speed": 589,
+      "crew_compartments": 3
+    },{
+      "span": 16.3,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 12.55,
+      "armament_count": 6,
+      "speed": 615,
+      "crew_compartments": 2
+    },
+    {
+      "span": 14.63,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 12.12,
+      "armament_count": 11,
+      "speed": 450,
+      "crew_compartments": 2
+    },{
+      "span": 14.99,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 12.12,
+      "armament_count": 2,
+      "speed": 340,
+      "crew_compartments": 3
+    },{
+      "span": 13.8,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 11,
+      "armament_count": 3,
+      "speed": 310,
+      "crew_compartments": 2
+    },{
+      "span": 15.17,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 11.18,
+      "armament_count": 6,
+      "speed": 473,
+      "crew_compartments": 2
+    },{
+      "span": 12.66,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 10.09,
+      "armament_count": 4,
+      "speed": 410,
+      "crew_compartments": 2
+    },
+    {
+      "span": 44,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.8,
+      "armament_count": 5,
+      "speed": 332,
+      "crew_compartments": 2
+    },{
+      "span": 11.28,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.83,
+      "armament_count": 6,
+      "speed": 587,
+      "crew_compartments": 1
+    },{
+      "span": 12.1,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.2,
+      "armament_count": 3,
+      "speed": 425,
+      "crew_compartments": 2
+    },{
+      "span": 14.6,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 11.6,
+      "armament_count": 9,
+      "speed": 414,
+      "crew_compartments": 2
+    },{
+      "span": 14.3,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 10.46,
+      "armament_count": 16,
+      "speed": 485,
+      "crew_compartments": 2
+    },
+    {
+      "span": 31.62,
+      "engine_count": 4,
+      "engine_type": 0,
+      "length": 22.66,
+      "armament_count": 13,
+      "speed": 462,
+      "crew_compartments": 4
+    },{
+      "span": 43.06,
+      "engine_count": 4,
+      "engine_type": 0,
+      "length": 30.18,
+      "armament_count": 12,
+      "speed": 574,
+      "crew_compartments": 4
+    },{
+      "span": 32.85,
+      "engine_count": 4,
+      "engine_type": 0,
+      "length": 23.45,
+      "armament_count": 10,
+      "speed": 350,
+      "crew_compartments": 5
+    },{
+      "span": 31.75,
+      "engine_count": 4,
+      "engine_type": 0,
+      "length": 21.82,
+      "armament_count": 9,
+      "speed": 454,
+      "crew_compartments": 7
+    },{
+      "span": 32.00,
+      "engine_count": 4,
+      "engine_type": 0,
+      "length": 22.3,
+      "armament_count": 7,
+      "speed": 430,
+      "crew_compartments": 6
+    },{
+      "span": 30.2,
+      "engine_count": 4,
+      "engine_type": 0,
+      "length": 26.6,
+      "armament_count": 8,
+      "speed": 410,
+      "crew_compartments": 7
+    },
+    {
+      "span": 16.46,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 12.91,
+      "armament_count": 6,
+      "speed": 414,
+      "crew_compartments": 3
+    },{
+      "span": 16.52,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 13.57,
+      "armament_count": 8,
+      "speed": 595,
+      "crew_compartments": 2
+    },{
+      "span": 13.95,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 9.68,
+      "armament_count": 3,
+      "speed": 304,
+      "crew_compartments": 3
+    },{
+      "span": 22.73,
+      "engine_count": 1,
+      "engine_type": 0,
+      "length": 11.96,
+      "armament_count": 2,
+      "speed": 367,
+      "crew_compartments": 2
+    },
+    {
+      "span": 19.96,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 13.51,
+      "armament_count": 4,
+      "speed": 397,
+      "crew_compartments": 6
+    },{
+      "span": 14.41,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 12.64,
+      "armament_count": 5,
+      "speed": 742,
+      "crew_compartments": 1
+    },{
+      "span": 28,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 17.8,
+      "armament_count": 4,
+      "speed": 454,
+      "crew_compartments": 6
+    },{
+      "span": 22.60,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 44,
+      "armament_count": 8,
+      "speed": 415,
+      "crew_compartments": 5
+    },{
+      "span": 24.89,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 19.97,
+      "armament_count": 4,
+      "speed": 428,
+      "crew_compartments": 7
+    },{
+      "span": 18.7,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 14.8,
+      "armament_count": 7,
+      "speed": 44,
+      "crew_compartments": 4
+    },{
+      "span": 26.27,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 19.69,
+      "armament_count": 8,
+      "speed": 378,
+      "crew_compartments": 6
+    },{
+      "span": 29.68,
+      "engine_count": 3,
+      "engine_type": 0,
+      "length": 22.9,
+      "armament_count": 4,
+      "speed": 347,
+      "crew_compartments": 4
+    },{
+      "span": 22.52,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 17.17,
+      "armament_count": 3,
+      "speed": 480,
+      "crew_compartments": 4
+    },{
+      "span": 29.2,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 21.1,
+      "armament_count": 10,
+      "speed": 309,
+      "crew_compartments": 4
+    },{
+      "span": 21.65,
+      "engine_count": 2,
+      "engine_type": 0,
+      "length": 17.8,
+      "armament_count": 12,
+      "speed": 460,
+      "crew_compartments": 7
+    },{
+      "span": 29.68,
+      "engine_count": 3,
+      "engine_type": 0,
+      "length": 22.9,
+      "armament_count": 4,
+      "speed": 347,
+      "crew_compartments": 4
+    }
+  ],
+
+   "biplane": [
+    {"bf": 0},{"bf": 0},{"bf": 0},{"bf": 0},{"bf": 0},
+    {"bf": 0}
+   ],
+
+  "fighter": [
+    {"f": 1},{"f": 1},{"f": 1},{"f": 1},{"f": 1},
+    {"f": 1},{"f": 1},{"f": 1},{"f": 1},{"f": 1},
+    {"f": 1},{"f": 1},{"f": 1},{"f": 1},{"f": 1},
+    {"f": 1},{"f": 1},{"f": 1},{"f": 1},{"f": 1}
+  ],
+
+  "heavy_fighter": [
+    {"hvy": 2},{"hvy": 2},{"hvy": 2},{"hvy": 2},{"hvy": 2},
+    {"hvy": 2},{"hvy": 2},{"hvy": 2}
+  ],
+
+  "jet": [
+    {"jet": 3},{"jet": 3},{"jet": 3},{"jet": 3},{"jet": 3},
+    {"jet": 3},{"jet": 3}
+  ],
+
+  "night_fighter": [
+    {"ngt": 4},{"ngt": 4},{"ngt": 4},{"ngt": 4}
+  ],
+
+  "dive_bomber": [
+    {"db": 5},{"db": 5},{"db": 5},{"db": 5},{"db": 5}
+  ],
+
+  "ground_attack_aircraft": [
+    {"gaa": 6},{"gaa": 6},{"gaa": 6},{"gaa": 6},{"gaa": 6}
+  ],
+
+  "heavy_bomber": [
+    {"hvy": 7},{"hvy": 7},{"hvy": 7},{"hvy": 7},{"hvy": 7},
+    {"hvy": 7}
+  ],
+
+  "light_bomber": [
+    {"lgt":  8},{"lgt":  8},{"lgt":  8},{"lgt":  8}
+  ],
+
+  "medium_bomber": [
+    {"med": 9},{"med": 9},{"med": 9},{"med": 9},{"med": 9},
+    {"med": 9},{"med": 9},{"med": 9},{"med": 9},{"med": 9},
+    {"med": 9},{"med": 9}
+  ]
+}
+
