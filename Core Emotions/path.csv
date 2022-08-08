@@ -1,0 +1,7 @@
+arms,legs,privates,core,face,brain_location
+1,1,1,1,0,limbic
+0,0,0,1,1,hippocampus
+0,0,1,1,1,cortex
+0,0,1,1,0,amygdala
+1,1,0,0,0,cerecbellum
+0,0,0,0,1,temporal
