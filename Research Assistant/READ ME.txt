@@ -1,0 +1,4 @@
+OPEN ALL SAVED FILE AS TEXT FILES IN NOTEPAD.
+
+
+Also you can only run this in a python enviroments of 3.7
